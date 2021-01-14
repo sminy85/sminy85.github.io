@@ -1,7 +1,7 @@
 ---
-title: Sample Post
-date: "2020-07-27T07:26:03.284Z"
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: ABOUT
+date: "2021-01-14T07:26:03.284Z"
+description: "BUSINESS MATCHING PLATFORM, 오아시스비즈니스"
 categories: [hello world]
 comments: true
 image:

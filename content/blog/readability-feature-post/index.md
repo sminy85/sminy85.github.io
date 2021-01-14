@@ -1,5 +1,5 @@
 ---
-title: "Post with Large Feature Image and Text"
+title: "창업 시장을 선도하다"
 date: "2020-07-27T07:26:03.284Z"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
 categories: [paragraph, feature photo]

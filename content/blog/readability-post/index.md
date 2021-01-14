@@ -1,5 +1,5 @@
 ---
-title: 'Testing "Readability" with a Bunch of Text'
+title: 'For Partner'
 date: "2020-07-27T07:26:03.284Z"
 description: "A ton of text to test readability."
 categories: [paragraph]

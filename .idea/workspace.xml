@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42f16978-bad8-4d5e-b415-0c5d76450f9e" name="Default Changelist" comment="" />
+    <list default="true" id="42f16978-bad8-4d5e-b415-0c5d76450f9e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/code-highlighting-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/code-highlighting-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/readability-feature-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/readability-feature-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/readability-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/readability-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/sample-post-1/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-post-1/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/sample-post-2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-post-2/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/sample-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,5 +54,16 @@
       <updated>1610601912962</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

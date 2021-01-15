@@ -111,3 +111,7 @@ button {
     top: 0;
   }
 }
+
+img[src*='bossillustration.jpg'] {
+    float: left;
+}

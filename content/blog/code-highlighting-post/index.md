@@ -1,21 +1,17 @@
 ---
-title: CAN I USE IT
-date: "2020-07-27T07:26:03.284Z"
-description: "Demo post displaying the various ways of highlighting code in Markdown."
+title: "Machine Learning, AI"
+date: "2021-01-14T07:26:03.284Z"
+description: "Our own machine learning technology"
 categories: [code]
 comments: true
 ---
 
-Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
+오아시스 비즈니스는 자체 AI를 기반으로 상권 분석 정보를 제공합니다.
 
-[^1]: http://en.wikipedia.org/wiki/Syntax_highlighting
 
-### Fenced Code Blocks
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
+```
+분석 지역의 기본정보
+상가 정보
+유동 인구 및 거주 인구 정보
+주요 시설 및 주변 교통 시설 정보
 ```

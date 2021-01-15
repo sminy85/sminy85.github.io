@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42f16978-bad8-4d5e-b415-0c5d76450f9e" name="Default Changelist" comment="first edit">
-      <change afterPath="$PROJECT_DIR$/content/blog/sample-post/aboutOasis.png" afterDir="false" />
+    <list default="true" id="42f16978-bad8-4d5e-b415-0c5d76450f9e" name="Default Changelist" comment="edit font-color and 1st page">
+      <change afterPath="$PROJECT_DIR$/content/blog/sample-link-post/bossillustration.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/sample-post/servicePic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/sample-post/ventureBusiness.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/assets/profile-pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/assets/profile-pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/code-highlighting-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/code-highlighting-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/readability-feature-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/readability-feature-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/readability-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/readability-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/sample-link-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-link-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/sample-post-1/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-post-1/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/sample-post-2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-post-2/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/blog/sample-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-post/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/bio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/bio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +54,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content/assets" />
+      <recent name="$PROJECT_DIR$/content/blog/sample-link-post" />
       <recent name="$PROJECT_DIR$/content/blog/sample-post" />
+      <recent name="$PROJECT_DIR$/content/assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610610905248</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="edit font-color and 1st page">
+      <created>1610686890495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610686890495</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first edit" />
+    <MESSAGE value="edit font-color and 1st page" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit font-color and 1st page" />
   </component>
 </project>

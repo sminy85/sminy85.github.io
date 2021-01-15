@@ -3,13 +3,13 @@ module.exports = {
   siteMetadata: {
     title: `OasisBusiness`,
     author: {
-      name: `@ry_zou`,
+      name: `@oasisbusiness`,
       summary: `web dev`,
     },
     description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
     siteUrl: `https://renyuanz.github.io/leonids`,
     social: {
-      twitter: `ry_zou`,
+      twitter: `oasisbusiness`,
     },
     defaultImage: "images/bg.jpeg",
   },
@@ -81,7 +81,7 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
-    //"gatsby-plugin-dark-mode",
+    "gatsby-plugin-dark-mode",
     `gatsby-plugin-postcss`,
   ],
 }

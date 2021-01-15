@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42f16978-bad8-4d5e-b415-0c5d76450f9e" name="Default Changelist" comment="edit 2nd page">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="42f16978-bad8-4d5e-b415-0c5d76450f9e" name="Default Changelist" comment="edit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610698828135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="edit">
+      <created>1610699321846</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610699321846</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +102,7 @@
     <MESSAGE value="first edit" />
     <MESSAGE value="edit font-color and 1st page" />
     <MESSAGE value="edit 2nd page" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit 2nd page" />
+    <MESSAGE value="edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit" />
   </component>
 </project>

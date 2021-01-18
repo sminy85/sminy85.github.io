@@ -1,7 +1,7 @@
 ---
 title: Front-end
 date: "2021-01-10T07:26:03.284Z"
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+description: "convert data to a graphical interface"
 categories: [hello world]
 comments: true
 image:
@@ -10,7 +10,7 @@ image:
   creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
 ---
 
-## HTML Elements
+## WITH REACT
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 

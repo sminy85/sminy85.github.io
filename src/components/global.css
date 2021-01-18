@@ -112,6 +112,6 @@ button {
   }
 }
 
-img[src*='bossillustration.jpg'] {
+img[src='bossillustration.jpg'] {
     float: left;
 }

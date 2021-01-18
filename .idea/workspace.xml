@@ -4,8 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42f16978-bad8-4d5e-b415-0c5d76450f9e" name="Default Changelist" comment="edit">
+    <list default="true" id="42f16978-bad8-4d5e-b415-0c5d76450f9e" name="Default Changelist" comment="re readme.md">
+      <change afterPath="$PROJECT_DIR$/content/blog/code-highlighting-post/MLAI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/moon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/moon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/moon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sun2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sun3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sun5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/code-highlighting-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/code-highlighting-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/readability-feature-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/readability-feature-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/readability-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/readability-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/sample-link-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-link-post/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/sample-post-1/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-post-1/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/sample-post-2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-post-2/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/moon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/moon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sun.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sun.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +58,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/blog/code-highlighting-post" />
+      <recent name="$PROJECT_DIR$/content/assets" />
+      <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/content/blog/sample-link-post" />
       <recent name="$PROJECT_DIR$/content/blog/sample-post" />
-      <recent name="$PROJECT_DIR$/content/assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -83,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610699321846</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="edit">
+      <created>1610699847859</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610699847859</updated>
+    </task>
+    <task id="LOCAL-00006" summary="re readme.md">
+      <created>1610699960198</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610699960198</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +136,7 @@
     <MESSAGE value="edit font-color and 1st page" />
     <MESSAGE value="edit 2nd page" />
     <MESSAGE value="edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit" />
+    <MESSAGE value="re readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="re readme.md" />
   </component>
 </project>

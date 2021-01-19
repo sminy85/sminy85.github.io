@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42f16978-bad8-4d5e-b415-0c5d76450f9e" name="Default Changelist" comment="edit AI page">
-      <change afterPath="$PROJECT_DIR$/content/blog/sample-post-2/matchingPlatform.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/oasisLogo.png" afterDir="false" />
+    <list default="true" id="42f16978-bad8-4d5e-b415-0c5d76450f9e" name="Default Changelist" comment="add oasis Logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/readability-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/readability-post/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/sample-link-post/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-link-post/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/sample-post-1/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-post-1/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/sample-post-2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/sample-post-2/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610945795057</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add oasis Logo">
+      <created>1610956581703</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610956581703</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +136,7 @@
     <MESSAGE value="edit" />
     <MESSAGE value="re readme.md" />
     <MESSAGE value="edit AI page" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit AI page" />
+    <MESSAGE value="add oasis Logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add oasis Logo" />
   </component>
 </project>
